@@ -8,3 +8,4 @@ Está dividido em 3 partes:
 2. Nível Básico
 3. Nível Intermediário
 
+E através de uma experiência prática com exemplos, quizzes, exercícios e projetos disponíveis, será possível testar seus conhecimentos e aplicá-los em projetos de Análise de Dados e Data Science.
